@@ -14,7 +14,7 @@ body {
 	align-items: center;
 }
 .container {
-	width: 40%;
+	width: 40em;
 	background: white;
 }
 
@@ -96,12 +96,12 @@ header {
 }
 
 /* MEDIA */
-@media (max-width: 600px) {
+@media (max-width: 500px) {
 	.container {
 		width: 100%;
 	}
 	.post-img {
-		height: 50vh;
+		height: 60vh;
 	}
 	.fa-regular {
 		font-size: 1.5rem;
